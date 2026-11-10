@@ -26,7 +26,7 @@ We take security seriously. We appreciate your efforts to responsibly disclose v
 The preferred method for reporting security vulnerabilities is through GitHub's Security Advisory feature:
 
 [arabic]
-. Navigate to https://github.com/metadatastician/f19-stealth-glider/security/advisories/new[Report a Vulnerability]
+. Navigate to https://github.com/catachresis-colloquium/f19-stealth-glider/security/advisories/new[Report a Vulnerability]
 . Click *"Report a vulnerability"*
 . Complete the form with as much detail as possible
 . Submit — we'll receive a private notification
@@ -200,7 +200,7 @@ If we cannot reach agreement on disclosure timing, we default to 90 days from yo
 
 The following are within scope for security research:
 
-* This repository (`metadatastician/f19-stealth-glider`) and all its code
+* This repository (`catachresis-colloquium/f19-stealth-glider`) and all its code
 * Official releases and packages published from this repository
 * Documentation that could lead to security issues
 * Build and deployment configurations in this repository
@@ -324,7 +324,7 @@ ____
 To stay informed about security updates:
 
 * *Watch this repository*: Click "Watch" → "Custom" → Select "Security alerts"
-* *GitHub Security Advisories*: Published at https://github.com/metadatastician/f19-stealth-glider/security/advisories[Security Advisories]
+* *GitHub Security Advisories*: Published at https://github.com/catachresis-colloquium/f19-stealth-glider/security/advisories[Security Advisories]
 * *Release notes*: Security fixes noted in link:CHANGELOG.adoc[CHANGELOG]
 
 === Update Policy
@@ -375,7 +375,7 @@ When using F19 Stealth Glider, we recommend:
 == Additional Resources
 
 * https://github.com/hyperpolymath.gpg[Our PGP Public Key]
-* https://github.com/metadatastician/f19-stealth-glider/security/advisories[Security Advisories]
+* https://github.com/catachresis-colloquium/f19-stealth-glider/security/advisories[Security Advisories]
 * link:CHANGELOG.adoc[Changelog]
 * link:CONTRIBUTING.adoc[Contributing Guidelines]
 * https://cve.mitre.org/[CVE Database]
@@ -388,8 +388,8 @@ When using F19 Stealth Glider, we recommend:
 [cols=",",options="header",]
 |===
 |Purpose |Contact
-|*Security issues* |https://github.com/metadatastician/f19-stealth-glider/security/advisories/new[Report via GitHub] or j.d.a.jewell@open.ac.uk
-|*General questions* |https://github.com/metadatastician/f19-stealth-glider/discussions[GitHub Discussions]
+|*Security issues* |https://github.com/catachresis-colloquium/f19-stealth-glider/security/advisories/new[Report via GitHub] or j.d.a.jewell@open.ac.uk
+|*General questions* |https://github.com/catachresis-colloquium/f19-stealth-glider/discussions[GitHub Discussions]
 |*Other enquiries* |See link:README.adoc[README] for contact information
 |===
 

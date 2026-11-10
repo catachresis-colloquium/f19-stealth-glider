@@ -17,7 +17,7 @@ scope = "One complete, fully verified level (Operation Nightstep v0). Deliberate
 position = "first Stealth Glider investigation"
 chain = "f19-stealth-glider -> f117a-stealth-glider -> sr71-blackglider -> x15-rocket-glider -> planer-1 -> enterglide-ncc-137-k -> tardis-rule-disruption"
 notes = "The chain is canonical in the coordination hub; this file copies it verbatim and is checked by the hub's membership gate."
-coordination = "metadatastician/stealth-glider-ecosystem"
+coordination = "catachresis-colloquium/stealth-glider-ecosystem"
 
 [architecture]
 substrate = "src/engine.mjs — B3/S23 core: bounded grid, step, RLE, the 8 symmetries, bounds-checked stamp, named pattern library, empirically derived glider kinematics, shadow-filtered findGlider."

@@ -9,7 +9,7 @@ last-updated = "2026-07-21"
 
 [anchor]
 schema = "hyperpolymath.anchor/1"
-repo = "metadatastician/f19-stealth-glider"
+repo = "catachresis-colloquium/f19-stealth-glider"
 authority = "upstream-canonical"
 
 purpose = [

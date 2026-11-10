@@ -11,7 +11,7 @@ judged the same way: by what the ledger and the contractiles say afterwards.
 
 [source,bash]
 ----
-git clone https://github.com/metadatastician/f19-stealth-glider.git
+git clone https://github.com/catachresis-colloquium/f19-stealth-glider.git
 cd f19-stealth-glider
 just ci        # ledger + reproducible bundle + contractile probes + root shape
 ----

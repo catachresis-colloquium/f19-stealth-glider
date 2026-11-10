@@ -174,7 +174,7 @@ generic template.
 - description: CLADE.a2ml declares THIS repository, not the template's identity
 - run: grep -q 'canonical-name = "f19-stealth-glider"' machine-readable/descriptiles/CLADE.a2ml && ! grep -q 'a5ea1382-a34c-5334-8a46-a2ebe904c810' machine-readable/descriptiles/CLADE.a2ml
 - severity: critical
-- notes: The template's CLADE was historically copied verbatim into new repos, making them declare the template's UUID. The UUID here is derived: uuidgen --sha1 --namespace @url --name "github.com/metadatastician/f19-stealth-glider".
+- notes: The template's CLADE was historically copied verbatim into new repos, making them declare the template's UUID. The UUID here is derived: uuidgen --sha1 --namespace @url --name "github.com/catachresis-colloquium/f19-stealth-glider".
 
 ### contractiles-trident-present
 - description: All six contractile verbs exist on the trident layout
