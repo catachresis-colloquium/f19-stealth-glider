@@ -1,5 +1,5 @@
 # SPDX-License-Identifier: MPL-2.0
-# Question issue template for metadatastician/f19-stealth-glider
+# Question issue template for catachresis-colloquium/f19-stealth-glider
 name: Question
 description: Ask a question about usage or behaviour
 title: "[Question]: "
@@ -10,7 +10,7 @@ body:
     attributes:
       value: |
         Have a question? You can also ask in
-        [Discussions](https://github.com/metadatastician/f19-stealth-glider/discussions)
+        [Discussions](https://github.com/catachresis-colloquium/f19-stealth-glider/discussions)
         for broader conversations.
 
   - type: textarea

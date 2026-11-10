@@ -3,7 +3,7 @@
 
 /* TEAM */
 Maintainer: Jonathan D.A. Jewell (hyperpolymath)
-Contact: https://github.com/metadatastician/f19-stealth-glider/issues
+Contact: https://github.com/catachresis-colloquium/f19-stealth-glider/issues
 From: United Kingdom
 
 /* SITE */

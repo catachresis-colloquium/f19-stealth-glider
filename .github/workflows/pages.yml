@@ -19,7 +19,7 @@
 # and the org requires every action — including transitive ones — to be pinned
 # to a full-length commit SHA. The run fails at startup with
 #   "The action actions/upload-artifact@v4 is not allowed in
-#    metadatastician/f19-stealth-glider ... All actions must also be pinned to
+#    catachresis-colloquium/f19-stealth-glider ... All actions must also be pinned to
 #    a full-length commit SHA."
 # and startup_failure is the worst kind of red, because it reads as a check that
 # never ran rather than one that failed.

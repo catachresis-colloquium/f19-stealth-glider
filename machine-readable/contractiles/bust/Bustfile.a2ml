@@ -58,10 +58,10 @@ because the failure genuinely occurred and the recovery was genuinely applied.
 - class: publication
 - description: pages.yml runs deploy-pages against a repository with no Pages site configured, and fails
 - injection_probe: "true"
-- recovery_probe: "gh api repos/metadatastician/f19-stealth-glider/pages --jq .build_type 2>/dev/null | grep -q workflow"
+- recovery_probe: "gh api repos/catachresis-colloquium/f19-stealth-glider/pages --jq .build_type 2>/dev/null | grep -q workflow"
 - expected_recovery_time_seconds: 30
 - status: verified
-- notes: Recovery: gh api -X POST repos/metadatastician/f19-stealth-glider/pages -f build_type=workflow. Enable the site BEFORE committing the workflow, otherwise the repo carries a guaranteed-red check.
+- notes: Recovery: gh api -X POST repos/catachresis-colloquium/f19-stealth-glider/pages -f build_type=workflow. Enable the site BEFORE committing the workflow, otherwise the repo carries a guaranteed-red check.
 
 ### codeql-advanced-vs-default-conflict
 - class: ci

@@ -7,8 +7,8 @@
 # field would have nothing to reference. Report via the Policy: URL below, or
 # through GitHub private vulnerability reporting on the repository's Security tab.
 
-Contact: https://github.com/metadatastician/f19-stealth-glider/security/advisories/new
+Contact: https://github.com/catachresis-colloquium/f19-stealth-glider/security/advisories/new
 Expires: 2026-12-31T23:59:59.000Z
 Preferred-Languages: en
 Canonical: https://metadatastician.github.io/f19-stealth-glider/.well-known/security.txt
-Policy: https://github.com/metadatastician/f19-stealth-glider/blob/main/SECURITY.adoc
+Policy: https://github.com/catachresis-colloquium/f19-stealth-glider/blob/main/SECURITY.adoc
